@@ -1,0 +1,322 @@
+{
+  "miami": {
+    "name": "Miami",
+    "location": "Miami, USA",
+    "date": "June 2024",
+    "PARTICIPANTS": 20,
+    "reviews": 25,
+    "price": 750,
+    "time": "7D/6N",
+    "rating": "4.8 / 5",
+    "cardHead": "EXPERIENCE THE GREAT HOLIDAY in MIAMI",
+    "cardBody": "A vibrant city known for its stunning beaches, diverse culture, and dynamic nightlife.",
+    "about": "Welcome to Miami, a vibrant city known for its stunning beaches, diverse culture, and dynamic nightlife. Nestled on the southeastern coast of Florida, Miami is a melting pot of influences, offering an eclectic mix of art, cuisine, and entertainment. Whether you're seeking relaxation, adventure, or a cultural immersion, Miami has something to offer every traveler. Join us in exploring this dynamic city and creating unforgettable memories",
+    "images": [
+      "../../assets/images/Miami.jpg",
+      "../../assets/images/Miami Images/back-view-women-taking-photos-park.jpg",
+      "../../assets/images/Miami Images/couple-taking-walk-by-pool-vacation.jpg",
+      "../../assets/images/Miami Images/woman-taking-photograph-her-boyfriend-camera-near-sea.jpg",
+      "../../assets/images/Miami Images/women-taking-selfie-near-street-lamp.jpg",
+      "../../assets/images/Miami Images/young-stylish-hipster-beautiful-couple-summer-vacation-thailand-flirty-fashion-trend-outfit-sunglasses-tropical-romance-smiling-happy-listening-music-party-mood-beach-cafe.jpg"
+    ],
+    "reviewers": [
+      "../../assets/images/Persons Images/artist-white.jpg",
+      "../../assets/images/Persons Images/front-view-smiley-male-photographer-with-camera.jpg",
+      "../../assets/images/Persons Images/indoor-picture-cheerful-handsome-young-man-having-folded-hands-looking-directly-smiling-sincerely-wearing-casual-clothes.jpg",
+      "../../assets/images/Persons Images/portrait-friendly-looking-happy-attractive-male-model-with-moustache-beard-wearing-trendy-transparent-glasses-smiling-broadly-while-listening-interesting-story-waiting-mom-give-meal.jpg",
+      "../../assets/images/Persons Images/young-bearded-man-with-striped-shirt.jpg"
+    ],
+    "reviewText": [
+      "Vibrant Nightlife",
+      "Miami's nightlife is unparalleled with its array of nightclubs, bars, and lounges. Whether you're looking to dance the night away or enjoy a quiet drink by the ocean, Miami has it all."
+    ]
+  },
+  "london": {
+    "name": "London",
+    "location": "London, UK",
+    "date": "July 2024",
+    "PARTICIPANTS": 25,
+    "reviews": 40,
+    "price": 550,
+    "time": "7D/6N",
+    "rating": "4.6 / 5",
+    "cardHead": "EXPERIENCE THE GREAT HOLIDAY in LONDON",
+    "cardBody": "A city where history meets modernity, creating an unparalleled tapestry of culture, heritage, and innovation.",
+    "about": "Welcome to London, a city where history meets modernity, creating an unparalleled tapestry of culture, heritage, and innovation. As the capital of the United Kingdom, London offers a wealth of experiences that cater to every interest, from its iconic landmarks to its vibrant arts scene. Whether you're delving into the depths of history, enjoying the latest theatrical productions, or indulging in world-class cuisine, London promises an enriching and unforgettable experience.",
+    "images": [
+      "../../assets/images/London.jpg",
+      "../../assets/images/Miami Images/back-view-women-taking-photos-park.jpg",
+      "../../assets/images/Miami Images/couple-taking-walk-by-pool-vacation.jpg",
+      "../../assets/images/Miami Images/woman-taking-photograph-her-boyfriend-camera-near-sea.jpg",
+      "../../assets/images/Miami Images/women-taking-selfie-near-street-lamp.jpg",
+      "../../assets/images/Miami Images/young-stylish-hipster-beautiful-couple-summer-vacation-thailand-flirty-fashion-trend-outfit-sunglasses-tropical-romance-smiling-happy-listening-music-party-mood-beach-cafe.jpg"
+    ],
+    "reviewers": [
+      "../../assets/images/Persons Images/artist-white.jpg",
+      "../../assets/images/Persons Images/front-view-smiley-male-photographer-with-camera.jpg",
+      "../../assets/images/Persons Images/indoor-picture-cheerful-handsome-young-man-having-folded-hands-looking-directly-smiling-sincerely-wearing-casual-clothes.jpg",
+      "../../assets/images/Persons Images/portrait-friendly-looking-happy-attractive-male-model-with-moustache-beard-wearing-trendy-transparent-glasses-smiling-broadly-while-listening-interesting-story-waiting-mom-give-meal.jpg",
+      "../../assets/images/Persons Images/young-bearded-man-with-striped-shirt.jpg"
+    ],
+    "reviewText": [
+      "History & Modernity",
+      "From Buckingham Palace to the British Museum, this tour had it all. The accommodations were comfortable, and the transportation was seamless. Our guide was engaging and informative, making the tour both educational and fun. I left with a deep appreciation for London's rich history."
+    ]
+  },
+  "egypt": {
+    "name": "Egypt",
+    "location": "Egypt",
+    "date": "March 2025",
+    "PARTICIPANTS": 50,
+    "reviews": 70,
+    "price": 350,
+    "time": "4D/3N",
+    "rating": "4.3 / 5",
+    "cardHead": "EXPERIENCE THE GREAT HOLIDAY in EGYPT",
+    "cardBody": "From the iconic pyramids to the bustling markets of Cairo, Egypt offers an unparalleled journey through history and culture.",
+    "about": "Welcome to Egypt, a land of timeless wonders and ancient mysteries. From the iconic pyramids to the bustling markets of Cairo, Egypt offers an unparalleled journey through history and culture. This captivating country, straddling northeast Africa and southwest Asia, is rich with archaeological treasures, breathtaking landscapes, and a vibrant contemporary culture. Whether you're an archaeology enthusiast, a lover of ancient history, or simply seeking a unique travel experience, Egypt promises a journey of discovery and wonder.",
+    "images": [
+      "../../assets/images/Egypt.jpg",
+      "../../assets/images/Egypt Images/egypt1.jpg",
+      "../../assets/images/Egypt Images/egypt2.jpg",
+      "../../assets/images/Egypt Images/egypt3.jpg",
+      "../../assets/images/Egypt Images/egypt4.jpg",
+      "../../assets/images/Egypt Images/egypt5.jpg"
+    ],
+    "reviewers": [
+      "../../assets/images/Persons Images/artist-white.jpg",
+      "../../assets/images/Persons Images/front-view-smiley-male-photographer-with-camera.jpg",
+      "../../assets/images/Persons Images/indoor-picture-cheerful-handsome-young-man-having-folded-hands-looking-directly-smiling-sincerely-wearing-casual-clothes.jpg",
+      "../../assets/images/Persons Images/portrait-friendly-looking-happy-attractive-male-model-with-moustache-beard-wearing-trendy-transparent-glasses-smiling-broadly-while-listening-interesting-story-waiting-mom-give-meal.jpg",
+      "../../assets/images/Persons Images/young-bearded-man-with-striped-shirt.jpg"
+    ],
+    "reviewText": [
+      "Mesmerizing Experience",
+      "An extraordinary adventure! The ancient temples, pyramids, and museums were incredible. Our tour guide was engaging and provided deep insights into Egypt's history and culture. The Red Sea Riviera was a perfect ending to a fantastic trip. I can't wait to come back!"
+    ]
+  },
+  "dupai": {
+    "name": "Dubai",
+    "location": "Dupai, UAE",
+    "date": "April 2025",
+    "PARTICIPANTS": 40,
+    "reviews": 22,
+    "price": 1500,
+    "time": "5D/4N",
+    "rating": "4.9 / 5",
+    "cardHead": "EXPERIENCE THE GREAT HOLIDAY in DUBAI",
+    "cardBody": "A city that epitomizes luxury, innovation, and cultural richness.",
+    "about": "Welcome to Dubai, a city that epitomizes luxury, innovation, and cultural richness. Located in the United Arab Emirates, Dubai is a dynamic metropolis known for its stunning skyline, world-class shopping, and unparalleled experiences. This cosmopolitan city seamlessly blends modern marvels with traditional Arabian charm, offering a unique and captivating destination for travelers. Whether you're seeking adventure, relaxation, or cultural enrichment, Dubai offers a myriad of experiences that cater to every traveler.",
+    "images": [
+      "../../assets/images/Dubai.jpg",
+      "../../assets/images/Miami Images/back-view-women-taking-photos-park.jpg",
+      "../../assets/images/Miami Images/couple-taking-walk-by-pool-vacation.jpg",
+      "../../assets/images/Miami Images/woman-taking-photograph-her-boyfriend-camera-near-sea.jpg",
+      "../../assets/images/Miami Images/women-taking-selfie-near-street-lamp.jpg",
+      "../../assets/images/Miami Images/young-stylish-hipster-beautiful-couple-summer-vacation-thailand-flirty-fashion-trend-outfit-sunglasses-tropical-romance-smiling-happy-listening-music-party-mood-beach-cafe.jpg"
+    ],
+    "reviewers": [
+      "../../assets/images/Persons Images/artist-white.jpg",
+      "../../assets/images/Persons Images/front-view-smiley-male-photographer-with-camera.jpg",
+      "../../assets/images/Persons Images/indoor-picture-cheerful-handsome-young-man-having-folded-hands-looking-directly-smiling-sincerely-wearing-casual-clothes.jpg",
+      "../../assets/images/Persons Images/portrait-friendly-looking-happy-attractive-male-model-with-moustache-beard-wearing-trendy-transparent-glasses-smiling-broadly-while-listening-interesting-story-waiting-mom-give-meal.jpg",
+      "../../assets/images/Persons Images/young-bearded-man-with-striped-shirt.jpg"
+    ],
+    "reviewText": [
+      "Cultural Richness",
+      "An unforgettable experience! The Dubai tour was impeccably organized and covered all the must-see attractions. The Burj Khalifa and the Dubai Fountain show were highlights. Our guide was knowledgeable and made the history and culture of Dubai come alive. Highly recommended!"
+    ]
+  },
+  "rio": {
+    "name": "Rio de Janeiro",
+    "location": "Rio de Janeiro, Brazil",
+    "date": "August 2025",
+    "PARTICIPANTS": 20,
+    "reviews": 19,
+    "price": 250,
+    "time": "4D/3N",
+    "rating": "4.7 / 5",
+    "cardHead": "EXPERIENCE THE GREAT HOLIDAY in RIO",
+    "cardBody": "A city that captivates with its vibrant culture, stunning landscapes, and energetic atmosphere. ",
+    "about": "Welcome to Rio de Janeiro, a city that captivates with its vibrant culture, stunning landscapes, and energetic atmosphere. Nestled between lush mountains and sparkling seas, Rio is known for its iconic landmarks, lively festivals, and warm, welcoming people. This Brazilian gem offers a unique blend of natural beauty and urban excitement, making it a must-visit destination. Whether you're drawn to its natural wonders, rich culture, or vibrant nightlife, Rio de Janeiro promises an exhilarating and unforgettable experience.",
+    "images": [
+      "../../assets/images/Rio.jpg",
+      "../../assets/images/Miami Images/back-view-women-taking-photos-park.jpg",
+      "../../assets/images/Miami Images/couple-taking-walk-by-pool-vacation.jpg",
+      "../../assets/images/Miami Images/woman-taking-photograph-her-boyfriend-camera-near-sea.jpg",
+      "../../assets/images/Miami Images/women-taking-selfie-near-street-lamp.jpg",
+      "../../assets/images/Miami Images/young-stylish-hipster-beautiful-couple-summer-vacation-thailand-flirty-fashion-trend-outfit-sunglasses-tropical-romance-smiling-happy-listening-music-party-mood-beach-cafe.jpg"
+    ],
+    "reviewers": [
+      "../../assets/images/Persons Images/artist-white.jpg",
+      "../../assets/images/Persons Images/front-view-smiley-male-photographer-with-camera.jpg",
+      "../../assets/images/Persons Images/indoor-picture-cheerful-handsome-young-man-having-folded-hands-looking-directly-smiling-sincerely-wearing-casual-clothes.jpg",
+      "../../assets/images/Persons Images/portrait-friendly-looking-happy-attractive-male-model-with-moustache-beard-wearing-trendy-transparent-glasses-smiling-broadly-while-listening-interesting-story-waiting-mom-give-meal.jpg",
+      "../../assets/images/Persons Images/young-bearded-man-with-striped-shirt.jpg"
+    ],
+    "reviewText": [
+      "Stunning Landscapes",
+      "Exploring Rio with this tour was incredible. The itinerary was well-balanced, covering major attractions and giving us a taste of local culture. The favela tour was particularly eye-opening. Our guide was knowledgeable and friendly. A truly enriching experience."
+    ]
+  },
+  "morocco": {
+    "name": "Morocco",
+    "location": "Morocco",
+    "date": "May 2025",
+    "PARTICIPANTS": 25,
+    "reviews": 40,
+    "price": 550,
+    "time": "3D/2N",
+    "rating": "4.9 / 5",
+    "cardHead": "EXPERIENCE THE GREAT HOLIDAY in MOROCCO",
+    "cardBody": "A land of rich history, vibrant culture, and stunning landscapes. ",
+    "about": "Welcome to Morocco, a land of rich history, vibrant culture, and stunning landscapes. Located in North Africa, Morocco is a captivating destination that blends ancient traditions with modern influences. From the bustling souks of Marrakech to the serene Sahara Desert, Morocco offers a diverse array of experiences that appeal to every traveler. Whether you're exploring ancient cities, trekking through majestic landscapes, or immersing yourself in vibrant souks, Morocco promises an unforgettable journey filled with history, culture, and natural beauty.",
+    "images": [
+      "../../assets/images/Morocco.jpg",
+      "../../assets/images/Miami Images/back-view-women-taking-photos-park.jpg",
+      "../../assets/images/Miami Images/couple-taking-walk-by-pool-vacation.jpg",
+      "../../assets/images/Miami Images/woman-taking-photograph-her-boyfriend-camera-near-sea.jpg",
+      "../../assets/images/Miami Images/women-taking-selfie-near-street-lamp.jpg",
+      "../../assets/images/Miami Images/young-stylish-hipster-beautiful-couple-summer-vacation-thailand-flirty-fashion-trend-outfit-sunglasses-tropical-romance-smiling-happy-listening-music-party-mood-beach-cafe.jpg"
+    ],
+    "reviewers": [
+      "../../assets/images/Persons Images/artist-white.jpg",
+      "../../assets/images/Persons Images/front-view-smiley-male-photographer-with-camera.jpg",
+      "../../assets/images/Persons Images/indoor-picture-cheerful-handsome-young-man-having-folded-hands-looking-directly-smiling-sincerely-wearing-casual-clothes.jpg",
+      "../../assets/images/Persons Images/portrait-friendly-looking-happy-attractive-male-model-with-moustache-beard-wearing-trendy-transparent-glasses-smiling-broadly-while-listening-interesting-story-waiting-mom-give-meal.jpg",
+      "../../assets/images/Persons Images/young-bearded-man-with-striped-shirt.jpg"
+    ],
+    "reviewText": [
+      "Adventure Of A Lifetime",
+      "My Morocco tour was a dream come true! The itinerary was well-planned, covering Marrakech, Fes, and the Sahara Desert. The camel trek in the desert was a highlight, and staying in a traditional Berber camp was unforgettable. Highly recommend for anyone looking to experience the richness of Moroccan culture."
+    ]
+  },
+  "turkey": {
+    "name": "Turkey",
+    "location": "Turkey",
+    "date": "November 2024",
+    "PARTICIPANTS": 25,
+    "reviews": 52,
+    "price": 650,
+    "time": "7D/6N",
+    "rating": "4.4 / 5",
+    "cardHead": "EXPERIENCE THE GREAT HOLIDAY in TURKEY",
+    "cardBody": "A country steeped in ancient traditions, architectural marvels, and natural beauty.",
+    "about": "Welcome to Turkey, where East meets West in a harmonious blend of cultures, landscapes, and history. Situated at the crossroads of Europe and Asia, Turkey is a country steeped in ancient traditions, architectural marvels, and natural beauty. From the bustling markets of Istanbul to the surreal landscapes of Cappadocia and the pristine beaches of the Mediterranean coast, Turkey offers a diverse array of experiences that cater to every traveler. Whether you're drawn to its ancient history, vibrant culture, or stunning natural scenery, Turkey promises an unforgettable journey filled with discovery and adventure. ",
+    "images": [
+      "../../assets/images/Turkey.jpg",
+      "../../assets/images/Miami Images/back-view-women-taking-photos-park.jpg",
+      "../../assets/images/Miami Images/couple-taking-walk-by-pool-vacation.jpg",
+      "../../assets/images/Miami Images/woman-taking-photograph-her-boyfriend-camera-near-sea.jpg",
+      "../../assets/images/Miami Images/women-taking-selfie-near-street-lamp.jpg",
+      "../../assets/images/Miami Images/young-stylish-hipster-beautiful-couple-summer-vacation-thailand-flirty-fashion-trend-outfit-sunglasses-tropical-romance-smiling-happy-listening-music-party-mood-beach-cafe.jpg"
+    ],
+    "reviewers": [
+      "../../assets/images/Persons Images/artist-white.jpg",
+      "../../assets/images/Persons Images/front-view-smiley-male-photographer-with-camera.jpg",
+      "../../assets/images/Persons Images/indoor-picture-cheerful-handsome-young-man-having-folded-hands-looking-directly-smiling-sincerely-wearing-casual-clothes.jpg",
+      "../../assets/images/Persons Images/portrait-friendly-looking-happy-attractive-male-model-with-moustache-beard-wearing-trendy-transparent-glasses-smiling-broadly-while-listening-interesting-story-waiting-mom-give-meal.jpg",
+      "../../assets/images/Persons Images/young-bearded-man-with-striped-shirt.jpg"
+    ],
+    "reviewText": [
+      " An Absolute Delight!",
+      "This tour provided a perfect introduction to Turkey's diverse offerings. From the bustling bazaars of Istanbul to the tranquil landscapes of Cappadocia, every day was filled with wonder. The Turkish cuisine was a delightful discovery, and the hospitality of the locals made the trip even more memorable."
+    ]
+  },
+  "maldives": {
+    "name": "The Maldives",
+    "location": "Republic of Maldives",
+    "date": "August 2024",
+    "PARTICIPANTS": 20,
+    "reviews": 45,
+    "price": 550,
+    "time": "4D/3N",
+    "rating": "4.8 / 5",
+    "cardHead": "EXPERIENCE THE GREAT HOLIDAY in THE MALDIVES",
+    "cardBody": "A paradise on earth where crystal-clear turquoise waters meet pristine white sandy beaches.",
+    "about": "Welcome to the Maldives, a paradise on earth where crystal-clear turquoise waters meet pristine white sandy beaches. Located in the Indian Ocean southwest of Sri Lanka, the Maldives is renowned for its luxurious resorts, vibrant marine life, and unparalleled natural beauty. This tropical archipelago consists of over 1,000 coral islands grouped into 26 atolls, each offering a unique slice of paradise. Whether you're seeking a romantic getaway, an adventurous escape, or a serene retreat, the Maldives promises an unforgettable experience in a setting of unparalleled natural beauty. ",
+    "images": [
+      "../../assets/images/Maldives.jpg",
+      "../../assets/images/Miami Images/back-view-women-taking-photos-park.jpg",
+      "../../assets/images/Miami Images/couple-taking-walk-by-pool-vacation.jpg",
+      "../../assets/images/Miami Images/woman-taking-photograph-her-boyfriend-camera-near-sea.jpg",
+      "../../assets/images/Miami Images/women-taking-selfie-near-street-lamp.jpg",
+      "../../assets/images/Miami Images/young-stylish-hipster-beautiful-couple-summer-vacation-thailand-flirty-fashion-trend-outfit-sunglasses-tropical-romance-smiling-happy-listening-music-party-mood-beach-cafe.jpg"
+    ],
+    "reviewers": [
+      "../../assets/images/Persons Images/artist-white.jpg",
+      "../../assets/images/Persons Images/front-view-smiley-male-photographer-with-camera.jpg",
+      "../../assets/images/Persons Images/indoor-picture-cheerful-handsome-young-man-having-folded-hands-looking-directly-smiling-sincerely-wearing-casual-clothes.jpg",
+      "../../assets/images/Persons Images/portrait-friendly-looking-happy-attractive-male-model-with-moustache-beard-wearing-trendy-transparent-glasses-smiling-broadly-while-listening-interesting-story-waiting-mom-give-meal.jpg",
+      "../../assets/images/Persons Images/young-bearded-man-with-striped-shirt.jpg"
+    ],
+    "reviewText": [
+      " Unparalleled Natural Beauty",
+      "This tour provided a perfect introduction to Turkey's diverse offerings. From the bustling bazaars of Istanbul to the tranquil landscapes of Cappadocia, every day was filled with wonder. The Turkish cuisine was a delightful discovery, and the hospitality of the locals made the trip even more memorable."
+    ]
+  },
+  "paris": {
+    "name": "Paris",
+    "location": "Paris, France",
+    "date": "December 2024",
+    "PARTICIPANTS": 25,
+    "reviews": 65,
+    "price": 750,
+    "time": "4D/3N",
+    "rating": "4.2 / 5",
+    "cardHead": "EXPERIENCE THE GREAT HOLIDAY in THE PARIS",
+    "cardBody": "The City of Light and one of the most iconic cities in the world. Renowned for its rich history, artistic heritage, and romantic ambiance",
+    "about": "Welcome to Paris, the City of Light and one of the most iconic cities in the world. Renowned for its rich history, artistic heritage, and romantic ambiance, Paris captivates visitors with its timeless charm and cultural allure. Nestled along the banks of the Seine River in northern France, Paris is a city where every street corner tells a story, every landmark is a masterpiece, and every moment is filled with beauty and inspiration. Paris is a city that inspires and enchants, offering a perfect blend of history, culture, art, and romance. ",
+    "images": [
+      "../../assets/images/Paris.jpg",
+      "../../assets/images/Miami Images/back-view-women-taking-photos-park.jpg",
+      "../../assets/images/Miami Images/couple-taking-walk-by-pool-vacation.jpg",
+      "../../assets/images/Miami Images/woman-taking-photograph-her-boyfriend-camera-near-sea.jpg",
+      "../../assets/images/Miami Images/women-taking-selfie-near-street-lamp.jpg",
+      "../../assets/images/Miami Images/young-stylish-hipster-beautiful-couple-summer-vacation-thailand-flirty-fashion-trend-outfit-sunglasses-tropical-romance-smiling-happy-listening-music-party-mood-beach-cafe.jpg"
+    ],
+    "reviewers": [
+      "../../assets/images/Persons Images/artist-white.jpg",
+      "../../assets/images/Persons Images/front-view-smiley-male-photographer-with-camera.jpg",
+      "../../assets/images/Persons Images/indoor-picture-cheerful-handsome-young-man-having-folded-hands-looking-directly-smiling-sincerely-wearing-casual-clothes.jpg",
+      "../../assets/images/Persons Images/portrait-friendly-looking-happy-attractive-male-model-with-moustache-beard-wearing-trendy-transparent-glasses-smiling-broadly-while-listening-interesting-story-waiting-mom-give-meal.jpg",
+      "../../assets/images/Persons Images/young-bearded-man-with-striped-shirt.jpg"
+    ],
+    "reviewText": [
+      "Beauty And Inspiration.",
+      "Paris is simply enchanting! The tour covered all the must-see sights like the Eiffel Tower and Champs-Élysées, but also included hidden gems like Sainte-Chapelle. The shopping in Paris was fabulous, and the nightlife in Le Marais was vibrant. A fantastic trip!"
+    ]
+  },
+  "tokyo": {
+    "name": "Tokyo",
+    "location": "Tokyo, Japan",
+    "date": "January 2025",
+    "PARTICIPANTS": 20,
+    "reviews": 35,
+    "price": 650,
+    "time": "3D/2N",
+    "rating": "4.5 / 5",
+    "cardHead": "EXPERIENCE THE GREAT HOLIDAY in THE TOKYO",
+    "cardBody": "The bustling capital of Japan where tradition meets modernity in a vibrant fusion of culture, technology, and innovation.",
+    "about": "Welcome to Tokyo, the bustling capital of Japan where tradition meets modernity in a vibrant fusion of culture, technology, and innovation. As one of the most populous cities in the world, Tokyo offers a unique blend of ancient temples, futuristic skyscrapers, bustling markets, and serene gardens. Explore the dynamic neighborhoods, indulge in world-class cuisine, and immerse yourself in the rich traditions of Japanese culture. Tokyo is a city that offers endless exploration and discovery, blending ancient traditions with cutting-edge technology.",
+    "images": [
+      "../../assets/images/Tokyo.jpg",
+      "../../assets/images/Miami Images/back-view-women-taking-photos-park.jpg",
+      "../../assets/images/Miami Images/couple-taking-walk-by-pool-vacation.jpg",
+      "../../assets/images/Miami Images/woman-taking-photograph-her-boyfriend-camera-near-sea.jpg",
+      "../../assets/images/Miami Images/women-taking-selfie-near-street-lamp.jpg",
+      "../../assets/images/Miami Images/young-stylish-hipster-beautiful-couple-summer-vacation-thailand-flirty-fashion-trend-outfit-sunglasses-tropical-romance-smiling-happy-listening-music-party-mood-beach-cafe.jpg"
+    ],
+    "reviewers": [
+      "../../assets/images/Persons Images/artist-white.jpg",
+      "../../assets/images/Persons Images/front-view-smiley-male-photographer-with-camera.jpg",
+      "../../assets/images/Persons Images/indoor-picture-cheerful-handsome-young-man-having-folded-hands-looking-directly-smiling-sincerely-wearing-casual-clothes.jpg",
+      "../../assets/images/Persons Images/portrait-friendly-looking-happy-attractive-male-model-with-moustache-beard-wearing-trendy-transparent-glasses-smiling-broadly-while-listening-interesting-story-waiting-mom-give-meal.jpg",
+      "../../assets/images/Persons Images/young-bearded-man-with-striped-shirt.jpg"
+    ],
+    "reviewText": [
+      "Truly Captivating",
+      "A fantastic journey through Tokyo's cultural and culinary delights! The tour was well-organized, and the accommodations were comfortable. Highlights included the Robot Restaurant show in Shinjuku and sampling street food in Asakusa. Tokyo's blend of tradition and innovation was truly captivating."
+    ]
+  }
+}

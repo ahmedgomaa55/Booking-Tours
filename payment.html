@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Payment</title>
+    <link
+      rel="stylesheet"
+      href="./bootstrap-5.3.3-dist/css/bootstrap.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="./bootstrap-5.3.3-dist/css/bootstrap-utilities.min.css"
+    />
+
+    <link rel="shortcut icon" href="./favicon.svg" type="image/svg+xml" />
+
+    <style>
+      @import url("https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap");
+
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: "Montserrat", sans-serif;
+      }
+
+      body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        background-color: #0c4160;
+
+        padding: 30px 10px;
+      }
+
+      .card {
+        max-width: 500px;
+        margin: auto;
+        color: black;
+        border-radius: 20 px;
+      }
+
+      p {
+        margin: 0px;
+      }
+
+      .container .h8 {
+        font-size: 30px;
+        font-weight: 800;
+        text-align: center;
+      }
+
+      .btn.btn-primary {
+        width: 100%;
+        height: 70px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0 15px;
+        background-image: linear-gradient(
+          to right,
+          #77a1d3 0%,
+          #79cbca 51%,
+          #77a1d3 100%
+        );
+        border: none;
+        transition: 0.5s;
+        background-size: 200% auto;
+      }
+
+      .btn.btn.btn-primary:hover {
+        background-position: right center;
+        color: #fff;
+        text-decoration: none;
+      }
+
+      .btn.btn-primary:hover .fas.fa-arrow-right {
+        transform: translate(15px);
+        transition: transform 0.2s ease-in;
+      }
+
+      .form-control {
+        color: white;
+        background-color: #223c60;
+        border: 2px solid transparent;
+        height: 60px;
+        padding-left: 20px;
+        vertical-align: middle;
+      }
+
+      .form-control:focus {
+        color: white;
+        background-color: #0c4160;
+        border: 2px solid #2d4dda;
+        box-shadow: none;
+      }
+
+      .text {
+        font-size: 14px;
+        font-weight: 600;
+      }
+
+      ::placeholder {
+        font-size: 14px;
+        font-weight: 600;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="PayForm" class="container p-0">
+      <div class="card px-4">
+        <p class="h8 py-3">Payment Details</p>
+        <div class="row gx-3">
+          <div class="col-12">
+            <div class="d-flex flex-column">
+              <p class="text mb-1">Person Name</p>
+              <input
+                id="name1"
+                class="form-control mb-3"
+                type="text"
+                placeholder="Name"
+              />
+              <span class="error d-none" id="nameError"
+                >Please enter a valid name.</span
+              >
+            </div>
+          </div>
+          <div class="col-12">
+            <div class="d-flex flex-column">
+              <p class="text mb-1">Card Number</p>
+              <input
+                id="cardNumber"
+                class="form-control mb-3"
+                type="text"
+                placeholder="1234 5678 435678"
+              />
+              <span class="error d-none" id="cardError"
+                >Please enter a valid card number.</span
+              >
+            </div>
+          </div>
+          <div class="col-6">
+            <div class="d-flex flex-column">
+              <p class="text mb-1">Expiry</p>
+              <input
+                id="expiry"
+                class="form-control mb-3"
+                type="text"
+                placeholder="MM/YYYY"
+              />
+              <span class="error d-none" id="expiryError"
+                >Please enter a valid expiry date.</span
+              >
+            </div>
+          </div>
+          <div class="col-6">
+            <div class="d-flex flex-column">
+              <p class="text mb-1">CVV/CVC</p>
+              <input
+                id="cvv"
+                class="form-control mb-3 pt-2"
+                type="password"
+                placeholder="***"
+              />
+              <span class="error d-none" id="cvvError"
+                >Please enter a valid CVV/CVC.</span
+              >
+            </div>
+          </div>
+          <div class="col-12">
+            <div id="PayButton" class="btn btn-primary mb-3" onclick="pay()">
+              <span class="ps-3">Pay $243</span>
+              <span class="fas fa-arrow-right"></span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="Thank" class="text-light d-none"><h1>Thank you *_*</h1></div>
+    <script src="bootstrap-5.3.3-dist/js/bootstrap.bundle.min.js"></script>
+    <script src="./assets/js/payment.js"></script>
+  </body>
+</html>
