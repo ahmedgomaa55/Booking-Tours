@@ -162,18 +162,15 @@ function addToCart(tourName) {
   });
 }
 
-
 function page() {
   onAuthStateChanged(auth, (user) => {
     if (user) {
-      
       window.open("package.html", "_blank");
     } else {
       window.location = "login.html";
     }
   });
 }
-
 
 // when the main page load render the 3 packages
 document.getElementById("top").addEventListener("load", showPopularPackages());
@@ -194,12 +191,3 @@ document
       }
     });
   });
-
-// onAuthStateChanged(auth, (user) => {
-//   if (user) {
-//     localStorage.setItem("tourName", tourName);
-//     window.open("tour.html", "_blank");
-//   } else {
-//     window.location = "login.html";
-//   }
-// })

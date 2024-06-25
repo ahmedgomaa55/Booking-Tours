@@ -101,9 +101,7 @@ async function showAllPackages(x) {
                   <span>/ per person</span>
                 </p>
     
-                <button class="btn btn-secondary class="bookBtn" value="${
-                  (value.name.toLowerCase())
-                }" " onclick="addCart(this.value)">
+                <button class="btn btn-secondary class="bookBtn" value="${value.name.toLowerCase()}" " onclick="addCart(this.value)">
                   Book Now
                 </button>
               </div>

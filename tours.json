@@ -95,7 +95,7 @@
       "An extraordinary adventure! The ancient temples, pyramids, and museums were incredible. Our tour guide was engaging and provided deep insights into Egypt's history and culture. The Red Sea Riviera was a perfect ending to a fantastic trip. I can't wait to come back!"
     ]
   },
-  "dupai": {
+  "dubai": {
     "name": "Dubai",
     "location": "Dupai, UAE",
     "date": "April 2025",
@@ -128,7 +128,7 @@
     ]
   },
   "rio": {
-    "name": "Rio de Janeiro",
+    "name": "Rio",
     "location": "Rio de Janeiro, Brazil",
     "date": "August 2025",
     "PARTICIPANTS": 20,
@@ -224,7 +224,7 @@
     ]
   },
   "maldives": {
-    "name": "The Maldives",
+    "name": "Maldives",
     "location": "Republic of Maldives",
     "date": "August 2024",
     "PARTICIPANTS": 20,
@@ -264,7 +264,7 @@
     "price": 750,
     "time": "4D/3N",
     "rating": "4.2 / 5",
-    "cardHead": "EXPERIENCE THE GREAT HOLIDAY in THE PARIS",
+    "cardHead": "EXPERIENCE THE GREAT HOLIDAY in PARIS",
     "cardBody": "The City of Light and one of the most iconic cities in the world. Renowned for its rich history, artistic heritage, and romantic ambiance",
     "about": "Welcome to Paris, the City of Light and one of the most iconic cities in the world. Renowned for its rich history, artistic heritage, and romantic ambiance, Paris captivates visitors with its timeless charm and cultural allure. Nestled along the banks of the Seine River in northern France, Paris is a city where every street corner tells a story, every landmark is a masterpiece, and every moment is filled with beauty and inspiration. Paris is a city that inspires and enchants, offering a perfect blend of history, culture, art, and romance. ",
     "images": [
@@ -296,7 +296,7 @@
     "price": 650,
     "time": "3D/2N",
     "rating": "4.5 / 5",
-    "cardHead": "EXPERIENCE THE GREAT HOLIDAY in THE TOKYO",
+    "cardHead": "EXPERIENCE THE GREAT HOLIDAY in TOKYO",
     "cardBody": "The bustling capital of Japan where tradition meets modernity in a vibrant fusion of culture, technology, and innovation.",
     "about": "Welcome to Tokyo, the bustling capital of Japan where tradition meets modernity in a vibrant fusion of culture, technology, and innovation. As one of the most populous cities in the world, Tokyo offers a unique blend of ancient temples, futuristic skyscrapers, bustling markets, and serene gardens. Explore the dynamic neighborhoods, indulge in world-class cuisine, and immerse yourself in the rich traditions of Japanese culture. Tokyo is a city that offers endless exploration and discovery, blending ancient traditions with cutting-edge technology.",
     "images": [
