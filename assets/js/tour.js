@@ -1,5 +1,5 @@
 "use strict";
-
+var getPrice;
 async function renderTour() {
   try {
     const res = await fetch("./tours.json");
@@ -7,11 +7,11 @@ async function renderTour() {
     if (!res.ok) throw new Error(`${data.message} (${res.status})`);
 
     let tourName = localStorage.getItem("tourName");
-    for (const [key, value] of Object.entries(data)) {
-      if (key == tourName) {
+    for (const [key, value] of Object.entries(data)) { 
+      if (key == tourName) { 
         document.getElementById("cont").innerHTML = `
             <section class="tour" id="home" style="background-image: url('./assets/images/${value.name}.jpg');">
-            <div class="header-top">
+            <div class="header-top"> 
           <div class="container">
             <a href="tel:+01123456790" class="helpline-box">
               <div class="icon-box">
@@ -228,6 +228,9 @@ async function renderTour() {
       </div>
     </footer>
     `;
+    getPrice=value.price;
+    console.log(getPrice)
+    localStorage.setItem('price',getPrice)
       } else {
         continue;
       }
@@ -238,7 +241,6 @@ async function renderTour() {
   } catch (err) {
     throw err;
   }
-}
+  }
 
 document.getElementById("tourBody").addEventListener("load", renderTour());
-console.log("hjjhdjf")

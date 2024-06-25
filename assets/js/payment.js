@@ -3,8 +3,10 @@
 var PayForm = document.getElementById("PayForm");
 var PayButton = document.getElementById("PayButton");
 var Thank = document.getElementById("Thank");
+var tourPrice=document.getElementById("tourPrice")
+console.log(tourPrice);
 
-
+tourPrice.innerHTML=`Pay ${localStorage.getItem('price')}$`
 function pay() {
   if (validate()) {
     PayForm.classList.add("d-none");

@@ -47,9 +47,11 @@ async function getTours() {
             </figure>
   
             <div class="card-content">
-              <h3 class="h3 card-title">
+              <h3 class="h3 card-title text-dark">
+
                ${destinations[i].cardHead}
               </h3>
+              
   
               <p class="card-text">
                 ${destinations[i].cardBody}
