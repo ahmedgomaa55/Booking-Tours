@@ -132,7 +132,7 @@ async function showPopularPackages() {
             </p>
 
             <button class="btn btn-secondary" value="${key}">
-              Book Now
+              Details
             </button>
           </div>
         </div>
@@ -161,6 +161,20 @@ function addToCart(tourName) {
     }
   });
 }
+
+
+function page() {
+  onAuthStateChanged(auth, (user) => {
+    if (user) {
+      
+      window.open("package.html", "_blank");
+    } else {
+      window.location = "login.html";
+    }
+  });
+}
+
+
 // when the main page load render the 3 packages
 document.getElementById("top").addEventListener("load", showPopularPackages());
 

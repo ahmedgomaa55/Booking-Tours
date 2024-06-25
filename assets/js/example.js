@@ -17,22 +17,23 @@ const firebaseConfig = {
   const app = initializeApp(firebaseConfig);
 
 
-const dbRef = ref(getDatabase());
-get(child(dbRef, `name`)).then((snapshot) => {
-  if (snapshot.exists()) {
-    console.log(snapshot.val());
-  } else {
-    console.log("No data available");
-  }
-}).catch((error) => {
-  console.error(error);
-});
+// const dbRef = ref(getDatabase());
+// get(child(dbRef, `name`)).then((snapshot) => {
+//   if (snapshot.exists()) {
+//     console.log(snapshot.val());
+//   } else {
+//     console.log("No data available");
+//   }
+// }).catch((error) => {
+//   console.error(error);
+// });
 
 
 
 function writeUserData() {
     const db = getDatabase();
-    set(ref(db, 'name'), "shaban");
+    set(ref(db, 'bb'), "12");
   }
-  writeUserData()
+writeUserData()
 
+console.log("sfjgjk")

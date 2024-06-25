@@ -1,92 +1,22 @@
 "use strict";
 
-function pay() {
-  if (validate()) {
-    setTimeout(() => {
-      window.location = "profile.html";
-    }, 2000);
-  }
-}
 var PayForm = document.getElementById("PayForm");
 var PayButton = document.getElementById("PayButton");
 var Thank = document.getElementById("Thank");
-//console.log(Thank);
 
-PayButton.addEventListener("click", function () {
+
+function pay() {
   if (validate()) {
     PayForm.classList.add("d-none");
     Thank.classList.replace("d-none", "d-block");
+    setTimeout(() => {
+      window.location = "profile.html"+window.location.search;
+    }, 2000);
   }
-});
+}
 
-// var name1 = document.getElementById('name1');
-// const cardNumber = document.getElementById('cardNumber');
-// const expiry = document.getElementById('expiry');
-// const cvv = document.getElementById('cvv');
-// console.log(cvv);
 
-// function validateForm() {
-//   // Regex patterns
-//   const namePattern = /^[a-zA-Z\s]+$/;
-//   const cardPattern = /^\d{16}$/;
-//   const expiryPattern = /^(0[1-9]|1[0-2])\/\d{2}$/;
-//   const cvvPattern = /^\d{3,4}$/;
 
-//   // Get form elements
-//   const name2 = name1.value;
-//   const cardNumber2 = cardNumber.value;
-//   const expiry2 = expiry.value;
-//   const cvv2 = cvv.value;
-
-//   // Get error elements
-//   const nameError = document.getElementById('nameError');
-//   const cardError = document.getElementById('cardError');
-//   const expiryError = document.getElementById('expiryError');
-//   const cvvError = document.getElementById('cvvError');
-
-//   // Validate fields
-//   let valid = true;
-
-//   if (!namePattern.test(name2)) {
-//       nameError.style.display = 'block';
-//       valid = false;
-//   } else {
-//       nameError.style.display = 'none';
-//   }
-
-//   if (!cardPattern.test(cardNumber2)) {
-//       cardError.style.display = 'block';
-//       valid = false;
-//   } else {
-//       cardError.style.display = 'none';
-//   }
-
-//   if (!expiryPattern.test(expiry2)) {
-//       expiryError.style.display = 'block';
-//       valid = false;
-//   } else {
-//       expiryError.style.display = 'none';
-//   }
-
-//   if (!cvvPattern.test(cvv2)) {
-//       cvvError.style.display = 'block';
-//       valid = false;
-//   } else {
-//       cvvError.style.display = 'none';
-//   }
-
-//   if (valid) {
-//       alert('Payment successful!');
-//   }
-// }
-
-// PayButton.addEventListener('click',validateForm);
-
-console.log(name1);
-// const cardNumber = document.getElementById('cardNumber');
-// const expiry = document.getElementById('expiry');
-// const cvv = document.getElementById('cvv');
-// console.log(cvv);
 function validate() {
   var flag = true;
   const namePattern = /^[a-zA-Z\s]+$/;
@@ -138,4 +68,4 @@ function validate() {
   return flag;
 }
 
-PayButton.addEventListener("click", validate);
+

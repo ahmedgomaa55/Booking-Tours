@@ -1,7 +1,7 @@
 let userInfo=document.querySelector("#user-info");
 let userDom=document.querySelector("#user");
 let links=document.querySelector("#links");
-let username=localStorage.getItem("username");
+// let username=localStorage.getItem("username");
 let log_out=document.querySelector("#log-out");
 // if(username){
 //     console.log(username);
