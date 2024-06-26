@@ -26,7 +26,7 @@ async function renderTour() {
           </a>
 
           <a href="#" class="logo">
-            <img src="./assets/images/logo.svg" alt="Tourly logo" />
+            <img src="./assets/images/new1.svg" alt="travellingo logo" />
           </a>
 
           <div class="header-btn-group">

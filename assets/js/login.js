@@ -66,8 +66,9 @@ import { getAuth, signInWithEmailAndPassword } from "https://www.gstatic.com/fir
       .catch((error) => {
         const errorCode = error.code;
         const errorMessage = error.message;
-        console.log(errorCode);
-        console.log(errorMessage);
+        // console.log(errorCode);
+        // console.log(errorMessage);
+        alert("Email or password is wrongs")
         
       });
 
