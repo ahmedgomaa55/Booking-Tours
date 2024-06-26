@@ -199,7 +199,7 @@ async function renderTour() {
         <p class="card-text">
           7 days. 1 adventure. Infinite memories. Make it yours today!
           </p>
-          <a href="#" class="btn btn-primary" onclick="window.location=payment.html?name=${key}''">BOOK TOUR</a>
+          <a href="#" class="btn btn-primary" onclick="window.location='payment.html?name=${key}'">BOOK TOUR</a>
       </div>
     </div>
 

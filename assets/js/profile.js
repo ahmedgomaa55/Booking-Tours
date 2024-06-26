@@ -159,3 +159,5 @@ async function renderTour() {
 })();
 
 
+// window.open('mailto:ahmed.m.shaban183@gmail.com?subject=hello&body=thanks');
+

@@ -1,9 +1,6 @@
 "use strict";
 // import { renderTour } from "./tourRender";
-//show pakages
-// (function showProductsUI(){
 
-// })();
 
 // function to render 3 popular packages in the main page.
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js";
